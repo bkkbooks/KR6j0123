@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0123/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 奇特最勝金輪佛頂念誦儀軌法要
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0949.xml
+    old_id: T19n0949
+hash: sha256:2e49dee04d952f80ba96a393f389ad9db071db38075a0c6a4aa46de3c00910b7

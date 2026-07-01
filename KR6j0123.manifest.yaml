@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6j0123/v1
+canonical_location: https://kanripo.org/bkk/KR6j0123/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 奇特最勝金輪佛頂念誦儀軌法要
+  identifiers:
+    alt_id:
+    - T19n0949
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0949.xml
+    old_id: T19n0949
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 明
+  label: 明
+  source_xml_id: wit2
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0123_000.yaml, hash: 'sha256:2e49dee04d952f80ba96a393f389ad9db071db38075a0c6a4aa46de3c00910b7'}
+  - {seq: 1, filename: KR6j0123_001.yaml, hash: 'sha256:ca01fc1cf01c32774dda4b1245a9ac27280777c1c55159ae4b4f3a7b14743d70'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0123_001.markers.yaml, hash: 'sha256:5e0a2d2c67ca4b45f7235757e244c702c4206bda69251bd367c14b51bef29746'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0123_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2667
+  label: '奇特最勝金輪佛頂念誦儀軌法
+
+    要'
+  type: juan
+  level: 1
+hash: sha256:5c0c2ae7593fcd5bdb86f973dffa0b983e2a82dde9525575c2ab97b8bb893590
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
