@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0123/v1
 canonical_location: https://kanripo.org/bkk/KR6j0123/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 奇特最勝金輪佛頂念誦儀軌法要
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0123_000.yaml, hash: 'sha256:2e49dee04d952f80ba96a393f389ad9db071db38075a0c6a4aa46de3c00910b7'}
-  - {seq: 1, filename: KR6j0123_001.yaml, hash: 'sha256:6a0fa2492d9fd870357fa3cd93806ee17a8cc3a4ce6f2b3cc6fda206084f0430'}
+  - {seq: 1, filename: KR6j0123_001.yaml, hash: 'sha256:b20dc75c2226560fdbf66fb6a8e57c045a59633523220bee490ef562c90f9704'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0123_000.markers.yaml, hash: 'sha256:48bf2e92606e283c4a21441062dccbf2d8c91bb4e167f2c2d2205ccad3b409b6'}
-  - {seq: 1, role: markers, filename: assets/KR6j0123_001.markers.yaml, hash: 'sha256:f1edb39e53ef26525a66439559a6de2a01b360a84485af79e08f2c264579c1a4'}
+  - {seq: 1, role: markers, filename: assets/KR6j0123_001.markers.yaml, hash: 'sha256:e8777ae3ca8d7c18f63bab96db0d7da96ca76ecfe02f0e0fcc2b7fbb0b02d83c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,4 +45,7 @@ table_of_contents:
     要'
   type: juan
   level: 1
-hash: sha256:cb914a1b003082e469edb66c9048d26aa57c694da9b1cd6d488b77ae82bdad80
+hash: sha256:fa9fbb2352eab8f697930ef62bea874037131ac9bed8231dabea90f99c3d7f3e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
